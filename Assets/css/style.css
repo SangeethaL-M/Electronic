@@ -15,7 +15,7 @@
 }
 .backimg
 {
-    background-image: url('/Assets/Images/header image.png');
+    background-image: url('/Electronic/Assets/Images/header image.png');
 
 }
 .starclr
@@ -24,25 +24,25 @@
 }
 .backimgpost1
 {
-    background-image: url('/Assets/Images/poster home 1.png');
+    background-image: url('/Electronic/Assets/Images/poster home 1.png');
     
 }
 .backimgpost2
 {
-    background-image: url('/Assets/Images/poster home 2.png');
+    background-image: url('/Electronic/Assets/Images/poster home 2.png');
     
 }
 .smartpost1
 {
-    background-image: url('/Assets/Images/ear buds poster home.png');
+    background-image: url('/Electronic/Assets/Images/ear buds poster home.png');
 }
 .smartpost2
 {
-    background-image: url('/Assets/Images/mouse poster home.png');
+    background-image: url('/Electronic/Assets/Images/mouse poster home.png');
 }
 .smartpost3
 {
-    background-image: url('/Assets/Images/smart watch poster home.png');
+    background-image: url('/Electronic/Assets/Images/smart watch poster home.png');
 }
 .iconsize
 {
